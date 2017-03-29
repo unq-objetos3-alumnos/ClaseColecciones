@@ -10,10 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Collections@Dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_Dado_un_array_de_edificios__obtener_el_edificio_con_el_departamento_con_más_ambientes__Collections.coverage" NAME="Dado ciertas colecciones veremos que clase de operaciones podemos utilizar Dado un array de edificios, obtener el edificio con el departamento con más ambientes: Collections Coverage Results" MODIFIED="1490756012293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Collections" />
     <SUITE FILE_PATH="coverage/Collections@dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_un_edificio__obtener_los_numeros_de_todos_los_departamentos___Collections.coverage" NAME="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado un edificio, obtener los numeros de todos los departamentos : Collections Coverage Results" MODIFIED="1490493238169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Collections" />
     <SUITE FILE_PATH="coverage/Collections@dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_casas__chequear_que_la_cantidad_de_casas_con_mas_de_2_ambientes_es___Collections.coverage" NAME="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de casas, chequear que la cantidad de casas con mas de 2 ambientes es : Collections Coverage Results" MODIFIED="1490493018325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Collections" />
     <SUITE FILE_PATH="coverage/Collections@spec_helper.coverage" NAME="spec_helper Coverage Results" MODIFIED="1490481564529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="Collections" />
-    <SUITE FILE_PATH="coverage/Collections@Run_spec__Collections_spec___Collections.coverage" NAME="Run spec 'Collections_spec': Collections Coverage Results" MODIFIED="1490495015996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Collections" />
+    <SUITE FILE_PATH="coverage/Collections@Run_spec__Collections_spec___Collections.coverage" NAME="Run spec 'Collections_spec': Collections Coverage Results" MODIFIED="1490756017799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Collections" />
     <SUITE FILE_PATH="coverage/Collections@All_specs_in_Collections__Collections.coverage" NAME="All specs in Collections: Collections Coverage Results" MODIFIED="1490484429236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Collections" />
     <SUITE FILE_PATH="coverage/Collections@dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_edificios__obtener_el_edificio_con_el_departamento_con_más_ambientes___Collections.coverage" NAME="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections Coverage Results" MODIFIED="1490494438392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Collections" />
     <SUITE FILE_PATH="coverage/Collections@dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_departamentos__obtener_las_direcciones_de_cada_edificio___Collections.coverage" NAME="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de departamentos, obtener las direcciones de cada edificio : Collections Coverage Results" MODIFIED="1490487312909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Collections" />
@@ -39,7 +40,37 @@
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="House.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/House.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Department.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/Department.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Building.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/Building.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -48,38 +79,8 @@
       <file leaf-file-name="Collections_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/Collections_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1288">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="house.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/house.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="department.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/department.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edifice.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/edifice.rb">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,6 +100,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>filter</find>
+      <find>una lista</find>
+      <find>Dado</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -110,6 +113,7 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/model/department.rb" />
         <option value="$PROJECT_DIR$/spec/Collections_spec.rb" />
+        <option value="$PROJECT_DIR$/model/Department.rb" />
       </list>
     </option>
   </component>
@@ -139,6 +143,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,14 +187,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,171 +208,6 @@
     </option>
   </component>
   <component name="RunManager" selected="RSpec.Run spec 'Collections_spec': Collections">
-    <configuration default="false" name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener los edificios con más de 3 pisos: Collections" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="Collections" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/Collections_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener los edificios con más de 3 pisos" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener los edificios con 3 o más pisos: Collections" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="Collections" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/Collections_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener los edificios con 3 o más pisos" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="Collections" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/Collections_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes " />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener las direcciones de los departamentos de más de un ambiente que se encuentran en edificios de menos de 3 pisos: Collections" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="Collections" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/Collections_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener las direcciones de los departamentos de más de un ambiente que se encuentran en edificios de menos de 3 pisos" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Run spec 'Collections_spec': Collections" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="Collections" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/Collections_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="" />
@@ -522,22 +362,14 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="RSpec.dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener los edificios con más de 3 pisos: Collections" />
       <item index="1" class="java.lang.String" itemvalue="RSpec.dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener los edificios con 3 o más pisos: Collections" />
       <item index="2" class="java.lang.String" itemvalue="RSpec.dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections" />
       <item index="3" class="java.lang.String" itemvalue="RSpec.dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener las direcciones de los departamentos de más de un ambiente que se encuentran en edificios de menos de 3 pisos: Collections" />
       <item index="4" class="java.lang.String" itemvalue="RSpec.Run spec 'Collections_spec': Collections" />
+      <item index="5" class="java.lang.String" itemvalue="RSpec.Dado ciertas colecciones veremos que clase de operaciones podemos utilizar Dado un array de edificios, obtener el edificio con el departamento con más ambientes: Collections" />
     </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'Collections_spec': Collections" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener las direcciones de los departamentos de más de un ambiente que se encuentran en edificios de menos de 3 pisos: Collections" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener los edificios con 3 o más pisos: Collections" />
-        <item index="4" class="java.lang.String" itemvalue="RSpec.dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener los edificios con más de 3 pisos: Collections" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -554,30 +386,33 @@
       <workItem from="1490478414386" duration="1725000" />
       <workItem from="1490480390320" duration="90000" />
       <workItem from="1490480674591" duration="14582000" />
+      <workItem from="1490752962943" duration="2105000" />
+      <workItem from="1490755580963" duration="20000" />
+      <workItem from="1490755849425" duration="190000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_spec_'Collections_spec'__Collections - 2017.03.25 at 23h 23m 36s.xml">
+    <history-entry file="Dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_Dado_un_array_de_edificios,_obtener_el_edificio_con_el_departamento_con_más_ambientes__Collections - 2017.03.28 at 23h 51m 21s.xml">
+      <configuration name="Dado ciertas colecciones veremos que clase de operaciones podemos utilizar Dado un array de edificios, obtener el edificio con el departamento con más ambientes: Collections" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_Dado_un_array_de_edificios,_obtener_el_edificio_con_el_departamento_con_más_ambientes__Collections - 2017.03.28 at 23h 53m 01s.xml">
+      <configuration name="Dado ciertas colecciones veremos que clase de operaciones podemos utilizar Dado un array de edificios, obtener el edificio con el departamento con más ambientes: Collections" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_Dado_un_array_de_edificios,_obtener_el_edificio_con_el_departamento_con_más_ambientes__Collections - 2017.03.28 at 23h 53m 32s.xml">
+      <configuration name="Dado ciertas colecciones veremos que clase de operaciones podemos utilizar Dado un array de edificios, obtener el edificio con el departamento con más ambientes: Collections" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'Collections_spec'__Collections - 2017.03.28 at 23h 17m 32s.xml">
       <configuration name="Run spec 'Collections_spec': Collections" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_edificios,_obtener_el_edificio_con_el_departamento_con_más_ambientes___Collections - 2017.03.25 at 23h 09m 54s.xml">
-      <configuration name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Collections_spec'__Collections - 2017.03.28 at 23h 37m 25s.xml">
+      <configuration name="Run spec 'Collections_spec': Collections" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_edificios,_obtener_el_edificio_con_el_departamento_con_más_ambientes___Collections - 2017.03.25 at 23h 11m 47s.xml">
-      <configuration name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Collections_spec'__Collections - 2017.03.28 at 23h 51m 11s.xml">
+      <configuration name="Run spec 'Collections_spec': Collections" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_edificios,_obtener_el_edificio_con_el_departamento_con_más_ambientes___Collections - 2017.03.25 at 23h 13m 01s.xml">
-      <configuration name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_edificios,_obtener_el_edificio_con_el_departamento_con_más_ambientes___Collections - 2017.03.25 at 23h 13m 27s.xml">
-      <configuration name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_edificios,_obtener_el_edificio_con_el_departamento_con_más_ambientes___Collections - 2017.03.25 at 23h 13m 54s.xml">
-      <configuration name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_edificios,_obtener_el_edificio_con_el_departamento_con_más_ambientes___Collections - 2017.03.25 at 23h 13m 58s.xml">
-      <configuration name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener el edificio con el departamento con más ambientes : Collections" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'Collections_spec'__Collections - 2017.03.28 at 23h 53m 38s.xml">
+      <configuration name="Run spec 'Collections_spec': Collections" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="dado_ciertas_colecciones_veremos_que_clase_de_operaciones_podemos_utilizar_dado_una_lista_de_edificios,_obtener_los_edificios_con_3_o_más_pisos__Collections - 2017.03.25 at 23h 05m 22s.xml">
       <configuration name="dado ciertas colecciones veremos que clase de operaciones podemos utilizar dado una lista de edificios, obtener los edificios con 3 o más pisos: Collections" configurationId="RSpecRunConfigurationType" />
@@ -590,18 +425,16 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16419000" />
+    <option name="totallyTimeSpent" value="18734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="29" width="1366" height="739" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14934114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18887262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38580248" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39506173" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -613,6 +446,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -627,6 +462,66 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spec/Collections_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Building.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Collections_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/house.rb" />
+    <entry file="file://$PROJECT_DIR$/model/department.rb" />
+    <entry file="file://$PROJECT_DIR$/model/Building.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/house.rb" />
+    <entry file="file://$PROJECT_DIR$/model/department.rb" />
+    <entry file="file://$PROJECT_DIR$/model/Building.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Collections_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -660,15 +555,33 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/nada_spec.rb" />
-    <entry file="file://$PROJECT_DIR$/spec/.rspec">
+    <entry file="file://$PROJECT_DIR$/spec/.rspec" />
+    <entry file="file://$PROJECT_DIR$/.rspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/collections_types.rb" />
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/department.rb" />
+    <entry file="file://$PROJECT_DIR$/model/house.rb" />
+    <entry file="file://$PROJECT_DIR$/model/Building.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.rspec">
+    <entry file="file:///usr/local/lib/ruby/gems/2.4.0/gems/rspec-3.5.0/lib/rspec/version.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -676,26 +589,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/collections_types.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/house.rb">
+    <entry file="file:///usr/local/lib/ruby/gems/2.4.0/gems/rspec-3.5.0/lib/rspec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/edifice.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -703,12 +600,12 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+    <entry file="file://$PROJECT_DIR$/model/House.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -716,18 +613,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/department.rb">
+    <entry file="file://$PROJECT_DIR$/model/Department.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/Collections_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1288">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>

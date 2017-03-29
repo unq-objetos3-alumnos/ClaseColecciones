@@ -1,4 +1,4 @@
-class Edifice
+class Building
   attr_accessor :departments
 
   def initialize departments

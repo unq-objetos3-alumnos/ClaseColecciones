@@ -1,4 +1,4 @@
-require_relative '../model/house'
+require_relative '../model/House'
 class Department < House
   attr_accessor :floor
 
